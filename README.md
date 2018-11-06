@@ -31,6 +31,10 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
 
 ## Additional notes
 **Started** *November 2018*  
+
 **Ended** *Ongoing*  
-**Disclaimer** *I do not own each of the problem contexts listed in here. This is just for educational purposes only. Credits must go to entities linked in the sources above.*
+
+**Disclaimer** 
+
+*I do not own each of the problem contexts listed in here. This is just for educational purposes only. Credits must go to entities linked in the sources above.*
 *If you're looking for a one-stop shop of programming problems for you to delve on to feel free to check on challenges listed here.*

@@ -1,9 +1,8 @@
 /**
  * 100 Days Coding Challenge
  * 
- * @language Javascript
  * @author Rhan Miano
- * @since November 2018
+ * @since November 6, 2018
  * 
  * Pushing myself to do this 100 Days Coding Challenge.
  * 
