@@ -12,15 +12,12 @@
  * for each item. (TO BE UPDATED)
  */
 
+// Day 1 Use console.log to print a message.
+fnExecSolution1() {
+	let message = "Hi! Good luck on this journey of yours. Hoping that it would really turn out" +
+          "well and that you can consider yourself a better one after you do the 100th challenge";
 
-class Solutions {
-	
-	// Day 1 Use console.log to print a message.
-	fnExecSolution1() {
-		let message = "Hi! Good luck on this journey of yours. Hoping that it would really turn out" +
-            "well and that you can consider yourself a better one after you do the 100th challenge";
-
-		console.log(message);
-	}
+	console.log(message);
 }
 
+fnExecSolution1();
