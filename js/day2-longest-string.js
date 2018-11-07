@@ -45,7 +45,7 @@ let getLongestString = function (args){
       }
     });
 
-    // Returns an array of word or words with the highest length
+    // Returns an array of word or words with the longest length
     return arrWordsSameLength.length > 0 ? arrWordsSameLength : arrLongestWord;
   } catch(err){
     return `${err.name}: Given param is not a string and therefore ${err.message}`;
