@@ -13,4 +13,5 @@ Your response should be the longest word and its length.
 ```
 
 'What ifs?'
+- Given statement is not a string.
 - Longest words with the same length.

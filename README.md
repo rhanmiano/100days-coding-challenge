@@ -25,7 +25,8 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
 ### Challenges
 - https://www.freecodecamp.org/
 ### Docs
-- TODO
+- https://www.w3schools.com/
+- https://developer.mozilla.org/
 ## Todo
 
  - [X] `challenges.md`
@@ -35,11 +36,13 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
  - [ ] Complete the list for 20 kick-off challenges this week
 
 ## Additional notes
-**Started** *November 2018*  
+**Started** 
 
-**Rendered Days** *2*
+*November 2018*  
 
-**Ended** *Ongoing*  
+**Rendered Days** 
+
+*2*
 
 **Disclaimer** 
 
