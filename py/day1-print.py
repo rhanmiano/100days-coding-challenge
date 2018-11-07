@@ -5,10 +5,6 @@
  # @since November 6, 2018
  # 
  # Pushing myself to do this 100 Days Coding Challenge.
- # 
- # To test each solution, after launching php/index.php,
- # create an instance of the class Solutions and call the
- # function for each item. (TO BE UPDATED)
 ##
 
 # Day 1 Use python's print to show message on the terminal

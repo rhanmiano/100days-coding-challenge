@@ -10,32 +10,34 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
 
 ## Setup
 - Skipping of day(s) is allowed. (Wait what?) Yes, the main goal here is not to code for 100 days consecutively.
-- Challenges are handpicked from the internet and which are listed in `challenges.md`
+- Challenges are handpicked from the internet which are listed in `challenges.md`
   - 20 kick-off challenges
   - 30 intermediate ones
   - 30 hard ones
   - 20 supposed to be harder challenges
 - Solutions are written in three different languages namely:
-  - Javascript (VanillaJS)
+  - Javascript (ES6)
   - PHP (5.6)
   - Python (3.7)
 ## Sources
 ### Inspiration
 - https://www.100daysofcode.com/
 ### Challenges
-- TODO
+- https://www.freecodecamp.org/
 ### Docs
 - TODO
 ## Todo
 
- - [ ] `challenges.md`
- - [ ] List the sources of challenges
+ - [X] `challenges.md`
+ - [X] List the sources of challenges
  - [ ] Calendar and daily logs
  - [ ] Remarks for each challenges
  - [ ] Complete the list for 20 kick-off challenges this week
 
 ## Additional notes
 **Started** *November 2018*  
+
+**Rendered Days** *2*
 
 **Ended** *Ongoing*  
 
