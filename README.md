@@ -36,15 +36,10 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
  - [ ] Complete the list for 20 kick-off challenges this week
 
 ## Additional notes
-**Started** 
+**Started** | *November 2018*  
 
-*November 2018*  
-
-**Rendered Days** 
-
-*2*
+**Rendered Days** | *3*
 
 **Disclaimer** 
 
-*I do not own each of the problem contexts listed in here. This is just for educational purposes only. Credits must go to entities linked in the sources above.*
-*If you're looking for a one-stop shop of programming problems for you to delve on to feel free to check on challenges listed here.*
+*I do not own each of the problem contexts listed in here. This is just for educational purposes only. Credits must go to entities linked in the sources above. If you're looking for a one-stop shop of programming problems for you to delve on to feel free to check on the challenges listed here.*

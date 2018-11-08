@@ -30,5 +30,4 @@ def getLongestString(args):
 def getLength(args):
   return len(args)
 
-getLongestString("sampu tatlo pito")
-# TODO validate if param is string
+getLongestString("hi how are you")
