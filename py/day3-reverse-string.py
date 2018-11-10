@@ -8,7 +8,10 @@
 ##
 
 # Day 3 Reverse a string
-#
+#   Reverse the provided string.
+#   You may need to turn the string into an array before you can reverse it.
+#   The result must be string.
+
 # Init a string variable that will hold the reversed
 # string. Set a -1 index and loop through a range of
 # the startIndex up to the negative value of the length
@@ -18,13 +21,13 @@
 # is then concatenated to reversedStr.
 
 def reverseString(args):
-	reversedStr = ''
-	startIndex  = -1
-	
-	for i in range(-1, -(len(args) + 1), -1):
-		reversedStr = reversedStr + args[i]
-		
-	return reversedStr
-	
+  reversedStr = ''
+  startIndex  = -1
+  
+  for i in range(-1, -(len(args) + 1), -1):
+    reversedStr = reversedStr + args[i]
+    
+  return reversedStr
+  
 print(reverseString("Hope you're doing good"))
 # TODO validate if param is string

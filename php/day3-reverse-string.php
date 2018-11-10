@@ -8,7 +8,10 @@
  * Pushing myself to do this 100 Days Coding Challenge.
  */
 
-// Day 3 Reverse a string
+// Day 3 Reverse a stringReverse the provided string.
+//   Reverse the provided string.
+//   You may need to turn the string into an array before you can reverse it.
+//   The result must be string.
 
 /**
  * Check a param if it's a valid string. If yes
@@ -25,18 +28,18 @@
 function reverseString($args){
   if(is_string($args)) {
     $reversedStr = '';
-		$arrTemp 		 = [];
-		
-		for($i=strlen($args)-1; $i>=0; $i--){
-			$char = substr($args, $i, 1);
-			array_push($arrTemp, $char);
-		}
-		
-		foreach ($arrTemp as $char){
-			$reversedStr = $reversedStr . $char;
-		}
-		
-		return $reversedStr;
+    $arrTemp     = [];
+    
+    for($i=strlen($args)-1; $i>=0; $i--){
+      $char = substr($args, $i, 1);
+      array_push($arrTemp, $char);
+    }
+    
+    foreach ($arrTemp as $char){
+      $reversedStr = $reversedStr . $char;
+    }
+    
+    return $reversedStr;
   } else {
     throw new Exception('Parameter should be a string');
   }  

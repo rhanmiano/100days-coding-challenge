@@ -8,6 +8,9 @@
  */
 
 // Day 3 Reverse a string
+//   Reverse the provided string.
+//   You may need to turn the string into an array before you can reverse it.
+//   The result must be string.
 
 /**
  * Check a param if it's a valid string. If yes
@@ -22,17 +25,17 @@
 let reverseString = function (args){
   try{
     let reversedStr = '',
-				arrTemp			= [];
-		
-		for(var i=args.length -1; i>=0; i--){
-			var char = args.substr(i, 1);
-			arrTemp.push(char);
-		}
-		
-		arrTemp.forEach(function(value){
-			reversedStr = reversedStr + value;	
-		});
-		
+        arrTemp     = [];
+    
+    for(var i=args.length -1; i>=0; i--){
+      var char = args.substr(i, 1);
+      arrTemp.push(char);
+    }
+    
+    arrTemp.forEach(function(value){
+      reversedStr = reversedStr + value;  
+    });
+    
     return reversedStr;
   } catch(err){
     return `${err.name}: Given param is not a string.`;

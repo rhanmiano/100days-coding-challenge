@@ -9,6 +9,8 @@
  */
 
 // Day 2 Find the longest word in a string
+//   Find the length of the longest word in the provided sentence. 
+//   Your response should be the longest word and its length.
 
 /**
  * Explode the words with [space] delimiter
