@@ -30,4 +30,3 @@ def reverseString(args):
   return reversedStr
   
 print(reverseString("Hope you're doing good"))
-# TODO validate if param is string
