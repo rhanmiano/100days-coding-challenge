@@ -16,8 +16,8 @@
 
 # Iterate throught the number, and along the loop
 # check for all multiples of 3 and 5 by
-# using modulo. If index is a multiple just keep
-# add it to nSum.
+# using modulo. If index is a multiple, then add
+# it on to nSum.
 def getSumMulti(args):
   nSum = 0
   

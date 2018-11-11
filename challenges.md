@@ -34,3 +34,11 @@ The sum of these multiples is 23.
 
 Find the sum of all the multiples of 3 or 5 below the provided parameter value number.
 ```
+
+***
+#### 5. Title Case A Sentence
+
+```
+Return the provided string with the first letter of each word capitalized. 
+Make sure the rest of the word is in lower case.
+```

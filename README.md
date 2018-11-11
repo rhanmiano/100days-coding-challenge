@@ -5,11 +5,11 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
 
  1. Get a refresher of the fundamentals of the languages of web
  2. Push myself to think hard and code hard
- 3. Get a hold of the difference between **"Learning by reading & watching"** and **"Learning by practice"**
+ 3. Get a hold of the difference between **"Learning by reading or watching"** and **"Learning by practice"**
  4. Practice proper documentation, apply coding standards
 
 ## Setup
-- Skipping of day(s) is allowed. (Wait what?) Yes, the main goal here is not to code for 100 days consecutively.
+- Skipping of day(s) is allowed. (Wait what?) Yes, the main goal here is not to code for 100 days consecutively. Well, everybody needs some kind of rest day(s) in everything that they do right?
 - Challenges are handpicked from the internet which are listed in `challenges.md`
   - 20 kick-off challenges
   - 30 intermediate ones
@@ -21,24 +21,22 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
   - Python (3.7)
 ## Sources
 ### Inspiration
-- https://www.100daysofcode.com/
+- [100 Days of Code](https://www.100daysofcode.com/)
 ### Challenges
-- https://www.freecodecamp.org/
+- [freeCodeCamp](https://www.freecodecamp.org/)
 ### Docs
-- https://www.w3schools.com/
-- https://developer.mozilla.org/
+- [w3schools](https://www.w3schools.com/)
+- [MDN](https://developer.mozilla.org/)
 ## Todo
 
  - [X] `challenges.md`
  - [X] List the sources of challenges
  - [ ] Calendar and daily logs
- - [ ] Remarks for each challenges
- - [ ] Complete the list for 20 kick-off challenges this week
 
 ## Additional notes
 **Started** | *November 2018*  
 
-**Rendered Days** | *4*
+**Rendered Days** | *5*
 
 **Disclaimer** 
 
