@@ -37,7 +37,7 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
 ## Additional notes
 **Started** | *November 2018*  
 
-**Rendered Days** | *5*
+**Rendered Days** | *6*
 
 **Disclaimer** 
 
