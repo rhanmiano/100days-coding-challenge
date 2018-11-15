@@ -24,6 +24,7 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
 - [100 Days of Code](https://www.100daysofcode.com/)
 ### Challenges
 - [freeCodeCamp](https://www.freecodecamp.org/)
+- [Codecademy](https://discuss.codecademy.com/t/essential-information-on-code-challenges/83909)
 ### Docs
 - [w3schools](https://www.w3schools.com/)
 - [MDN](https://developer.mozilla.org/)
