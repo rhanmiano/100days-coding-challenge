@@ -63,3 +63,13 @@ Write a program that prints a multiplication table for numbers up to 12.
   12  24  36  48  60  72  84  96  108 120 142 144
 
 ```
+
+***
+#### 7. Years in a Range (1900 - currentYear)
+
+```
+Write a program to count the number of years in a range that has a repeated digit.
+For example, 2012 has a repeated digit, but 2013 does not.
+
+Output should be a list of those years, and the total count.
+```
