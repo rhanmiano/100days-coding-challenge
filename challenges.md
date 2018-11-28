@@ -1,11 +1,11 @@
 ### Kick-off
-##### 1. To start off, who would not want to do a Hello World program first. But instead of the basic output "Hello World!", why not give yourself a message on starting this kind of project. 
+#### 1. To start off, who would not want to do a Hello World program first. But instead of the basic output "Hello World!", why not give yourself a message on starting this kind of project. 
 
 ```
 Use each languages' fn to show your message for yourself.
 ```
 ***
-##### 2. Find the Longest Word in a String
+#### 2. Find the Longest Word in a String
 
 ```
 Find the length of the longest word in the provided sentence. 
@@ -17,7 +17,7 @@ Your response should be the longest word and its length.
 - Words with the same length.
 
 ***
-##### 3. Reverse a String
+#### 3. Reverse a String
 
 ```
 Reverse the provided string.
@@ -26,7 +26,7 @@ The result must be string.
 ```
 
 ***
-##### 4. Multiples of 3 and 5
+#### 4. Multiples of 3 and 5
 
 ```
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9.
@@ -72,4 +72,16 @@ Write a program to count the number of years in a range that has a repeated digi
 For example, 2012 has a repeated digit, but 2013 does not.
 
 Output should be a list of those years, and the total count.
+```
+
+***
+#### 8. Fizz Buzz
+
+```
+Create a program that replicates the famous game Fizz Buzz. The program will take an input, 
+e.g. 20, and then print out the list of Fizz Buzz up to and including that number, where:
+
+- Any multiple of 3 is replaced by the word ‘Fizz’
+- Any multiple of 5 is replaced by the word ‘Buzz’
+- Any multiple of both 3 and 5 is replaced by the word ‘FizzBuzz’
 ```
