@@ -85,3 +85,12 @@ e.g. 20, and then print out the list of Fizz Buzz up to and including that numbe
 - Any multiple of 5 is replaced by the word ‘Buzz’
 - Any multiple of both 3 and 5 is replaced by the word ‘FizzBuzz’
 ```
+
+***
+#### 9. Palindromes
+
+```
+Write a program that checks if a string entered by the user is a palindrome. 
+A palindrome is a word that reads the same forwards as backwards like “racecar”
+
+```
