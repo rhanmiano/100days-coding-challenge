@@ -1,6 +1,6 @@
 
 # 100 Days Coding Challenge
-My inner programmer-self is pushing me to do a coding challenge to require myself to sit in front of the computer for a couple of hours a day and solve programming challenges available on the internet. I still consider myself as a beginner(a lazy one too) that's why I'm making this leap to enhance my coding skills. This challenge should render 100 solutions to 100 problems for 100 days. 
+My inner programmer-self is pushing me to do a coding challenge to require myself to sit in front of the computer for a couple of hours in a day and solve programming challenges available on the internet. I still consider myself as a beginner(a lazy one too) that's why I'm making this leap to enhance my coding skills. This challenge should render 100 solutions to 100 problems for 100 days. 
 ## Objectives
 
  1. Get a refresher of the fundamentals of the languages of web
@@ -32,12 +32,11 @@ My inner programmer-self is pushing me to do a coding challenge to require mysel
 
  - [X] `challenges.md`
  - [X] List the sources of challenges
- - [ ] Calendar and daily logs
 
 ## Additional notes
 **Started** | *November 2018*  
 
-**Rendered Days** | *6*
+**Rendered Days** | *10*
 
 **Disclaimer** 
 

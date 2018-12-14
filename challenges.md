@@ -94,3 +94,15 @@ Write a program that checks if a string entered by the user is a palindrome.
 A palindrome is a word that reads the same forwards as backwards like “racecar”
 
 ```
+
+***
+#### 10. Pangrams
+
+```
+Pangrams
+”The quick brown fox jumps over the lazy dog”; note how all 26 English-language
+letters are used in the sentence.
+
+Your goal is to implement a program that takes a string and prints
+either True (the given string is a pangram), or False if it is not.
+```
